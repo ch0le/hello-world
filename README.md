@@ -1,2 +1,3 @@
-# hello-world
-test create repository git using hello world 
+# hello-git
+
+nice to meet you, hope can find happiness and joyness in here
